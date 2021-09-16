@@ -10,4 +10,8 @@ class Circle
     Math::PI * radius ** 2
   end
 
+  def say_hello
+    puts "say hello"
+  end
+
 end
